@@ -1,5 +1,8 @@
 # passport-kakao-token
 
+Fork to use POST method.
+----
+
 This module provides to authenticate with an access token on connect middleware including express.js. It will be necessary to login on the Device.
 
 It forked from [passport-kakao](https://github.com/rotoshine/passport-kakao) and refered from [passport-facebook-token](https://github.com/drudge/passport-facebook-token).
